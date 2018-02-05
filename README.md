@@ -1,2 +1,5 @@
 # HS-Game
-Desc:
+Desc: map
+
+ideeën:
+ -Map voor cod
